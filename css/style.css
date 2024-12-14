@@ -47,7 +47,6 @@ nav {
 ul{
     list-style-type:none;
     padding: 0;
-
 }
 #link-s li a{
     text-decoration: none;
@@ -58,5 +57,12 @@ ul{
 #link-s li a:hover{
     text-decoration:underline;
     color: black;
-    
+}
+#tablig{
+    position: fixed;
+    bottom: 38px;
+    right: 0;
+    width: 303px;
+    border: 3px solid #73AD21;
+    height: 18%;
 }

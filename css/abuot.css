@@ -1,0 +1,21 @@
+#carouselExampleIndicators {
+    width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.about-container {
+    width: 80%;
+    max-width: 800px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-top: 20px;
+}
+
+.about-container h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
